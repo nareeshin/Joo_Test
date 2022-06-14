@@ -1,0 +1,18 @@
+*{
+margin:0;
+padding:0;
+}
+#modelViewer01{
+    position: absolute;
+    width:400px;
+    height:800px;
+    border: 1px solid tomato;
+}
+#modelViewer02{
+    position: absolute;
+    width:400px;
+    height:800px;
+    margin-left: 400px;
+    border: 1px solid tomato;
+    }
+    
